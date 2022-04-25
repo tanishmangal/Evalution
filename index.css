@@ -1,0 +1,19 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
+#navbar>h1>a{
+    text-decoration: none;
+}
+#wallet{
+    margin-right: 100px;
+}
+#amount{
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+}
+#book_movies>a{
+    text-decoration: none;
+}
